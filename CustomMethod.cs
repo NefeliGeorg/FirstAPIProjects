@@ -20,6 +20,7 @@ using VI.DB.DataAccess;
 using VI.DB.Sync;
 
 //This is a Test Comment!!!
+//This is another Test Comment.. :)
 
 namespace QBM.CompositionApi
 {
