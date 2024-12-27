@@ -19,8 +19,12 @@ using System.Xml.Linq;
 using VI.DB.DataAccess;
 using VI.DB.Sync;
 
+<<<<<<< HEAD
 //This is a Test Comment!!!
 //This is another Test Comment.. :)
+=======
+//This is a Test Comment!
+>>>>>>> 207c411738a349029269fd8930d9d7704f9c2942
 
 namespace QBM.CompositionApi
 {
