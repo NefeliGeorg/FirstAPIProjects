@@ -19,8 +19,7 @@ using System.Xml.Linq;
 using VI.DB.DataAccess;
 using VI.DB.Sync;
 
-// Creating a
-// Conflict
+// This is a Comment for branch1
 
 namespace QBM.CompositionApi
 {
