@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OneIM\\source\\repos\\MyExercises.CompositionApi.Server.Plugin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95251170-7EB3-448D-A5B1-9682308AA0EE}|MyExercises.CompositionApi.Server.Plugin.csproj|c:\\users\\oneim\\source\\repos\\myexercises.compositionapi.server.plugin\\custommethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95251170-7EB3-448D-A5B1-9682308AA0EE}|MyExercises.CompositionApi.Server.Plugin.csproj|solutionrelative:custommethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomMethod.cs",
+              "DocumentMoniker": "C:\\Users\\OneIM\\source\\repos\\MyExercises.CompositionApi.Server.Plugin\\CustomMethod.cs",
+              "RelativeDocumentMoniker": "CustomMethod.cs",
+              "ToolTip": "C:\\Users\\OneIM\\source\\repos\\MyExercises.CompositionApi.Server.Plugin\\CustomMethod.cs",
+              "RelativeToolTip": "CustomMethod.cs",
+<<<<<<< HEAD
+<<<<<<< HEAD
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+>>>>>>> master
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+>>>>>>> c811912e74f5850260f90587a3b3608f40a6f0ac
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:32:13.105Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
