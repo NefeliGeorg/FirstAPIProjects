@@ -19,8 +19,6 @@ using System.Xml.Linq;
 using VI.DB.DataAccess;
 using VI.DB.Sync;
 
-// This is a Comment for branch2
-
 namespace QBM.CompositionApi
 {
     public class CustomMethod : IApiProviderFor<QER.CompositionApi.Portal.PortalApiProject>, IApiProvider
